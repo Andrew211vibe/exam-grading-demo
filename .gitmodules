@@ -1,6 +1,0 @@
-[submodule "learning-cxx"]
-	path = learning-cxx
-	url = git@github.com:Andrew211vibe/learning-cxx.git
-[submodule "rustlings"]
-	path = rustlings
-	url = git@github.com:Andrew211vibe/rustlings.git
