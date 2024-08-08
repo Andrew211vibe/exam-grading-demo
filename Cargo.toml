@@ -8,6 +8,8 @@ exclude = [
   "rustlings",
   "learning-cxx",
   "exams"
+  "TinyInfiniTensor",
+  "learning-lm-rs"
 ]
 
 [workspace.package]
