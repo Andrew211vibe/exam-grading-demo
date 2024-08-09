@@ -468,7 +468,7 @@ jobs:
         # 生成新的 JSON 内容
         new_json=$(jq -n \
           --arg channel "github" \
-          --argjson courseId 1699 \
+          --argjson courseId 1703 \
           --arg ext "aaa" \
           --arg name "$pr2_user" \
           --argjson score "$total_succeeds" \
